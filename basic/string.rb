@@ -28,3 +28,4 @@ str = "  cat is cute animal, be like cat  "
 # p str.split
 p str.split.size
 p str.strip.split(//)
+
